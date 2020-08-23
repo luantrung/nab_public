@@ -1,0 +1,16 @@
+PODS:
+  - StatefulViewController (3.0)
+
+DEPENDENCIES:
+  - StatefulViewController (~> 3.0)
+
+SPEC REPOS:
+  trunk:
+    - StatefulViewController
+
+SPEC CHECKSUMS:
+  StatefulViewController: 4803bf900d44de26074344998e10e041113b5931
+
+PODFILE CHECKSUM: 1a0eb7911ce258d01b9fa989028bd20fa1275165
+
+COCOAPODS: 1.8.4
